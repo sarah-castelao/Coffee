@@ -1,0 +1,26 @@
+/* Google fonts*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800|Raleway:400,500&display=swap");
+
+/* Ajouter le lien vers les autres components css*/
+@import url("component/container.css");
+@import url("component/menu.css");
+@import url("component/banner.css");
+@import url("component/card.css");
+
+body {
+	font-family: 'Raleway';
+	font-size: 18px;
+	margin: 0px;
+	background-color: white;
+}
+
+h1{
+	font-style: bold;
+	font-size: 40px;
+}
+
+h3{
+	font-family: Montserrat;
+	font-size: 15px;
+}
+
